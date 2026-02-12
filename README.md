@@ -1,4 +1,25 @@
-## Hi there 👋
+# Hi, I'm Armin 👋
+
+I'm a frontend developer focused on building performant, responsive, and accessible web applications. I care about clean code, reusable components, and scalable design systems.
+
+## Currently
+-Building real-world projects to improve my skills
+-Developing my own SCSS design system for consistency, reusability, and faster development 
+-Deepening my JavaScript and web architecture knowledge
+-Learning backend fundamentals on my path to full-stack development
+
+## Focus areas
+-Performance and accessibility
+-Responsive design
+-Component-based architecture
+-Modern web technologies
+
+## Tech Stack
+-Astro (framework of choice)
+-SCSS
+-Vanilla JavaScript
+-TypeScript
+-GSAP for animations
 
 <!--
 **onkelarmin/onkelarmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
